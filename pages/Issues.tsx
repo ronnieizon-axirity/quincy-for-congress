@@ -143,7 +143,7 @@ const Issues: React.FC = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 lg:gap-24 items-center">
             <div className="order-2 lg:order-1 relative">
                 <div className="border-[12px] border-brand-navy shadow-[16px_16px_0px_0px_#e1bb23] md:shadow-[32px_32px_0px_0px_#e1bb23] overflow-hidden h-[300px] md:h-[500px]">
-                  <img src="https://drive.google.com/uc?export=view&id=1-NwTdwCg6zirXTQlSvrbQSmX39GrqlcX" alt="Join Us" className="w-full h-full object-cover block" style={{ objectPosition: 'center center' }} />
+                  <img src="http://quincyforcongress.zahidyaftali.com/wp-content/uploads/2026/02/AS6_1621.png" alt="Join Us" className="w-full h-full object-cover block" style={{ objectPosition: 'center center' }} />
                 </div>
             </div>
             <div className="order-1 lg:order-2 space-y-10 flex flex-col items-start text-left">

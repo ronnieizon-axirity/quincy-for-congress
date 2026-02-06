@@ -76,7 +76,7 @@ const Issues: React.FC = () => {
               </div>
               <div className="order-1 lg:order-2 relative">
                 <div className="border-[8px] md:border-[12px] border-brand-navy shadow-[16px_16px_0px_0px_#e1bb23] lg:shadow-[32px_32px_0px_0px_#e1bb23] overflow-hidden h-[350px] md:h-[500px] lg:h-[650px]">
-                  <img src="http://quincyforcongress.zahidyaftali.com/wp-content/uploads/2026/02/Protecting-our-families-AS9_3807-scaled.webp" alt="Health Care" className="w-full h-full object-cover block" />
+                  <img src="images/Protecting our families AS9_3807.jpg" alt="Health Care" className="w-full h-full object-cover block" />
                 </div>
               </div>
             </div>
